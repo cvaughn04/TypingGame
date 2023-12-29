@@ -2,7 +2,7 @@
 
     Final Game Project
     This is my implementation of a typing game:
-    https://csdb01.cs.edinboro.edu/~c11019419v/Web_1/TuckerTypeScoreboard/index.html
+    [game can be played here](https://csdb01.cs.edinboro.edu/~c11019419v/Web_1/TuckerTypeScoreboard/index.html)
 
     +=+=+=+=+=+=+= Gameplay =+=+=+=+=+=+=+=+
 
