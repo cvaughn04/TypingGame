@@ -2,8 +2,8 @@
 
     Final Game Project
     This is my implementation of a typing game:
-    [click here](www.google.com)
-    [click here](https://csdb01.cs.edinboro.edu/~c11019419v/Web_1/TuckerTypeScoreboard/index.html)
+    <a href="https://csdb01.cs.edinboro.edu/~c11019419v/Web_1/TuckerTypeScoreboard/index.html">Click here to play</a>
+    
     +=+=+=+=+=+=+= Gameplay =+=+=+=+=+=+=+=+
 
     The buttons at the top are overall self documenting, but if not:
