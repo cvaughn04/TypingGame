@@ -1,5 +1,5 @@
 # TypingGame
-<a href="https://csdb01.cs.edinboro.edu/~c11019419v/Web_1/TuckerTypeScoreboard/index.html">Click here to play</a>
+<a href="https://csdb01.cs.edinboro.edu/~c11019419v/classes/Web_1/TuckerTypeScoreboard/index.html">Click here to play</a>
 
     Final Game Project
     This is my implementation of a typing game:
